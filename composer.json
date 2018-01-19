@@ -1,0 +1,21 @@
+{
+    "name": "212817/composer-exampe",
+    "description": "\u001b[D\u001b[D\u001b[D\u001b[DEx\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DExztemple project",
+    "type": "library",
+    "require": {
+        "php": "^7/\u001b[D.0"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Kirill Smith",
+            "email": "kirill@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4":{
+            "kirill\\parser\\": "src/"
+        }
+    }
+    "minimum-stability": "stable"
+}
